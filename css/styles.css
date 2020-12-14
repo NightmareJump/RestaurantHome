@@ -1,0 +1,472 @@
+body {
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: 	lightgoldenrodyellow;
+}
+header {
+	background-color: rgba(0,0,0,0.8);
+	min-height: 100px;
+	overflow: auto;
+	width: 100%;
+	line-height: 100px;
+	vertical-align: middle;
+	position: fixed;
+	top: 0px;
+}
+
+main {
+	margin-top: 200px;
+}
+
+#welcome {
+	min-height: 500px;
+	width: 100%;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	/*image from https://www.google.com/search?sa=G&hl=en-CA&q=gusto+japan&tbm=isch&tbs=simg:CAQSkwEJhWCzP7g9u10ahwELEKjU2AQaAAwLELCMpwgaYgpgCAMSKOgKzxSFBP0U6QrNF7YK0RSGBNcU0CruKuQq9ziMNtU4_1DjxKs8q-DgaMNp8eoJ4bFsatfnnNNNC0bwn5ok-qs9bfe6j_1JjwtIOGSLWx22YzIht4FLrF4Y8uVCAEDAsQjq7-CBoKCggIARIEwIAz8Aw&ved=0ahUKEwjepvfq3s_hAhXtlOAKHVKbB54Qwg4IKygA&biw=1920&bih=937#imgrc=_ on 13th April*/
+	background-image: url("../img/welcome2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin:0px;	
+
+}
+
+#welcomep{	
+	width: 30%;
+	text-align: center;
+	height: 200px;
+	margin: auto;s
+	clear: both;
+	background-color: rgba(220,220,220,0.8);
+	margin-top: 100px;
+}
+
+#welp{
+	margin-top: 80px;
+}
+
+button {
+	clear: both;
+	width: 90%;
+	margin-left: 10px;
+	height: 50px;
+	overflow: auto;
+	border:none;
+	border-radius: 80%;
+	background-color: white;
+}
+
+#part1 {
+	width: 60%;
+	display: flex;
+}
+
+#part2 {
+	width: 40%;
+	display: flex;
+}
+
+
+#menubtn1 {
+	width: 33.3%;
+	background-color: rgba(255,0,0,0.8);
+}
+#menubtn2 {
+	width: 33.3%;
+	background-color: rgba(255,255,0,0.8);
+
+}
+.menubtn3 {
+	width: 33.3%;
+	background-color: rgba(127,255,0,0.8);
+	
+}
+.menubtn4 {
+	width: 50%;
+	background-color: rgba(255,182,193,0.8);
+}
+.menubtn5 {
+	width: 50%;
+	background-color: rgba(220,220,220,0.8);
+}
+
+#menuall {
+	display: flex;
+	text-align: center;
+	width: 100%;
+
+}
+
+#welcomeimg2 {
+	width:75%;
+	height: 600px;
+	text-align: center;
+}
+
+#firsth2 {
+	background-color: red;
+}
+
+.wholesection {
+	width: 100%;
+	display: flex;
+	margin-top: 50px;
+}
+
+#about {
+	min-height: 500px;
+	margin-top: 100px;
+	text-align: center;
+
+}
+
+#abouth2 {
+	background-color: green;
+}
+
+#menu {
+	min-height: 500px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#menuh2 {
+	background-color: rgba(0,0,255,0.5);
+}
+
+#reservationform {
+	min-height: 500px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#reservationformh2 {
+	background-color: purple;
+}
+
+#contact {
+	min-height: 500px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#contacth2 {
+	background-color: pink;
+}
+
+#logo {
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-right: 150px;
+}
+
+
+#welcomeimg {
+	clear: both;
+	width: 90%;
+	margin-top: 50px;
+
+}
+
+.footercontainer {
+	display: flex;
+	text-align: center;
+}
+
+.footercontainer li {
+	margin-left: 30px;
+}
+#leftsection {
+	width: 40%;
+}
+
+#rightsection {
+	width: 50%;
+	text-align: center;
+	line-height: 20px;
+	vertical-align: middle;
+}
+
+#reservationcontainer {
+	width: 100%;
+	display: flex;
+}
+
+#reservationleftcontainer {
+	width: 50%;
+}
+
+
+#reservationrightcontainer{
+	width: 50%;
+	display: flex;
+	margin-top: 70px;
+}
+
+#littleleft{
+	width: 30%;
+	
+}
+
+#littleleft p {
+	margin-top: 30px;
+	text-align: right;
+}
+
+#littleright {
+	width: 30%;
+}
+
+
+input {
+	margin-top: 25px;
+
+}
+
+#resbtn {
+	border-radius: 50px;
+	width: 80px;
+	background-color: green;
+	margin-top: 25px;
+	margin-left: 120px;
+}
+
+#restmap {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+#reservationrightcontainer {
+	width: 50%;
+}
+
+#answer {
+	width:300px;
+}
+
+#contactform {
+	margin-top: 100px;
+}
+
+#contactp {
+	font-size: large;
+}
+
+#conbtn {
+	width: 50px;
+	background-color: red;
+	margin-top: 50px;
+}
+
+#gmap {
+	width: 90%;
+	height: 400px;
+	margin-top: 80px;
+}
+
+
+h1{
+	width: 80%;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
+nav {
+	width: 100%;
+	background-color: orange;
+	margin:0px;
+	padding: 0px;
+	
+	float: left;
+
+}
+nav ul {
+
+	color: white;
+	list-style-type:  none;
+
+}
+nav ul li {
+	float: left;
+	margin-right: 80px;
+	line-height: 36px;
+	vertical-align: middle;
+	
+}
+nav ul li a{
+	color: white;
+	text-align: center;
+	display: block;
+}
+
+nav ul li a:link {
+	text-decoration: none;
+}
+
+nav ul li a:active, a:visited {
+	color: white;
+}
+nav ul li a:hover {
+	color: black;
+}
+
+.footercontainer ul  {
+	display: flex;
+}
+
+
+footer {
+	background-color: black;
+	height: 100px;	
+
+}
+
+footer p {
+
+	background-color: orange;
+	text-align: center;
+	line-height: 50px;
+	vertical-align: middle;
+	
+}
+
+@media screen and (max-width: 1300px)
+{
+	header {
+		position: relative;
+		top: 0px;
+	}
+	main {
+		margin-top: 0px;
+	}
+	#welcomeimg {
+		margin-top: 150px;
+	}
+	#welcomep{
+		width: 50%;
+	}
+
+	h1 {
+
+		text-align: center;
+	}
+
+	#logo{
+		margin: auto 0;
+	}
+
+
+	#menuall {
+		display: inline;
+		width: 100%;
+	}
+
+	#part1 {
+		width: 100%;
+		display: flex;
+	}
+
+	#part2 {
+		width: 100%;
+		display: flex;
+	}
+	#menubtn1 {
+		width: 33.3%;
+	}
+	#menubtn2 {
+		width: 33.3%;
+	}
+	.menubtn3 {
+		width: 33.3%;
+	}
+	.menubtn4 {
+		width: 50%;
+	}
+	.menubtn5 {
+		width: 50%;
+	}
+
+
+}
+
+
+/*set the the style when mobilefriendly*/
+@media screen and (max-width: 650px){
+
+	#welcomep{
+		width: 100%;
+	}
+
+	body {
+		margin: 0px;
+	}
+
+	#headerimg {
+		width: 100%;
+	}
+
+	h1 {
+		width: 100%;
+	}
+
+	.wholesection {
+		width: 100%;
+		display: inline;
+	}
+	#leftsection {
+		width: 100%;
+	}
+
+	#rightsection {
+		width: 100%;
+	}
+
+	#menuall {
+		display: flex;
+		flex-direction: column;
+		clear: both;
+	}
+
+	#part1 {
+		display: inline;
+	}
+	#part2 {
+
+		display: inline;
+	}
+	#menubtn1 {
+		width: 100%;
+	}
+	#menubtn2 {
+		width: 100%;
+	}
+	.menubtn3 {
+		width: 100%;
+	}
+	.menubtn4 {
+		width: 100%;
+	}
+	.menubtn5 {
+		width: 100%;
+	}
+
+	nav ul{
+		margin-left: 80px;
+	}
+
+	#reservationcontainer {
+		width: 100%;
+		display: inline;
+	}
+
+	#reservationleftcontainer {
+		width: 100%;
+	}
+
+	#reservationrightcontainer {
+		width: 100%;
+		margin-left: 50px;
+	}
+}

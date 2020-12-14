@@ -1,0 +1,9 @@
+/*image from https://www.google.com/search?sa=G&hl=en-CA&q=gusto+japan&tbm=isch&tbs=simg:CAQSkwEJhWCzP7g9u10ahwELEKjU2AQaAAwLELCMpwgaYgpgCAMSKOgKzxSFBP0U6QrNF7YK0RSGBNcU0CruKuQq9ziMNtU4_1DjxKs8q-DgaMNp8eoJ4bFsatfnnNNNC0bwn5ok-qs9bfe6j_1JjwtIOGSLWx22YzIht4FLrF4Y8uVCAEDAsQjq7-CBoKCggIARIEwIAz8Aw&ved=0ahUKEwjepvfq3s_hAhXtlOAKHVKbB54Qwg4IKygA&biw=1920&bih=937#imgrc=_ on 13th April*/
+<!--image from https://www.google.com/search?hl=en-CA&q=chef+de+cuisine+png&tbm=isch&tbs=simg:CAQSkgEJH5m07SYxfPsahgELEKjU2AQaAAwLELCMpwgaYQpfCAMSJ1aIA60HxwLzEqMHoAqlB9ATtAeMLI8sjySnNIssyzehNMIglSTKNxow1B5Qqhp1kRLu5clf0xLr7LVEZZ7F-G3Wv6kRmvpTfgjnVMgKitiWjeOvusVrotCzIAQMCxCOrv4IGgoKCAgBEgQV3oSVDA&sa=X&ved=0ahUKEwi9nIfi3c_hAhUFpFkKHT9JDdkQwg4IKygA&biw=1920&bih=937#imgrc=_ on 13th April-->
+<!--image from https://www.google.com/search?sa=G&hl=en-CA&q=japan+restaurant&tbm=isch&tbs=simg:CAQSkwEJzoGH5JxKMBEahwELEKjU2AQaAAwLELCMpwgaYgpgCAMSKMsXzBfNF7oXoh7OF8UX9Au7F6MezSrWONU4ijaPKPA4zCrkKrorzyoaMJxXz9IB_1gxefcUWwnYsgZ_1EqtRoUP8o5m-ATBE1nMmn7rxdSx-R1Hg-g1PlJlHiciAEDAsQjq7-CBoKCggIARIEGpQzSgw&ved=0ahUKEwjV-tqQ3s_hAhXjx1kKHYUZARcQwg4IKygA&biw=1920&bih=937 on 13th April-->
+<!-- The content for the web page has been generated using the following websites:
+1. Cat Lipsum: http://www.catipsum.com/
+2. Lorem ipsum generator: https://lipsum.com/
+-->
+<!--google map from https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2839.0906941901035!2d-63.59208148425352!3d44.63606329633671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b5a2224b3f3f073%3A0xb3a96f0eb7cceade!2sLeMarchant+Place!5e0!3m2!1szh-CN!2sca!4v1554766000739!5m2!1szh-CN!2sca on 13th April-->
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
